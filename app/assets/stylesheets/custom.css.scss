@@ -44,3 +44,21 @@ $navbar-default-bg: #091d68;
   color: #2b90af;
   text-decoration: none;
 }
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #000;
+}
+
+footer small{
+  float: left;
+}
+
+footer nav{
+  float: right;
+}
+
+footer nav:hover {
+  color: #2093ad;
+}
